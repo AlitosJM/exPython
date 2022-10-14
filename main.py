@@ -6,7 +6,7 @@
 import staticmethods.utils
 from staticmethods.utils import Utils
 from atm.machine import Atm
-from threading import Timer
+
 import time
 
 
