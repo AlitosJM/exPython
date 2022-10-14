@@ -6,8 +6,6 @@
 import staticmethods.utils
 from staticmethods.utils import Utils
 from atm.machine import Atm
-from threading import Timer
-import time
 
 
 # Press the green button in the gutter to run the script.
