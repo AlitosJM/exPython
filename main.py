@@ -15,8 +15,6 @@ if __name__ == '__main__':
 
     atm = Atm()
     print("Enter your PIN code")
-    #t = Timer(1, Utils.exit, args=("Time's up!!",))
-    #t.start()
 
     inputCheck = atm.waiting_for_input()
     atm.atm_working()
