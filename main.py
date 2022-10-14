@@ -7,8 +7,6 @@ import staticmethods.utils
 from staticmethods.utils import Utils
 from atm.machine import Atm
 
-import time
-
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
